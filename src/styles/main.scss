@@ -2,6 +2,8 @@
 @use 'hero';
 @use 'components/infos-bar';
 @use 'components/buttons';
+@use 'events';
+@use 'variaveis';
 
 .container{
     max-width: 960px;
